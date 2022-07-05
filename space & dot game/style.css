@@ -1,0 +1,37 @@
+/* Created by Styles theandriod [DM glitched] */
+
+/* by Styles theandriod*/
+
+body {
+    margin: 0;
+}
+
+#test{
+    position: absolute;
+    background: #f00;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #000;
+}
+
+#touchpad{
+    position: absolute;
+    opacity: 0.35;
+    left: calc(50% - 116px);
+    bottom: 50px;
+    width: 200px;
+    height: 200px;
+    border: 16px double #000;
+    border-radius: 50%;
+}
+
+#joystick{
+    position: absolute;
+    opacity: 0.35;
+    top: calc(50% - 45.5px);
+    left: calc(50% - 45.5px);
+    width: 75px;
+    height: 75px;
+    border: 16px double #000;
+    border-radius: 50%;
+}
